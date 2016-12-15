@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\bin\Debug\CreateLocalRegisterCode.exe.config
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\bin\Debug\CreateLocalRegisterCode.exe
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\bin\Debug\CreateLocalRegisterCode.pdb
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\bin\Debug\Entry.dll
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\bin\Debug\Entry.pdb
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\obj\Debug\CreateLocalRegisterCode.FormMain.resources
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\obj\Debug\CreateLocalRegisterCode.Properties.Resources.resources
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\obj\Debug\CreateLocalRegisterCode.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\obj\Debug\CreateLocalRegisterCode.exe
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\obj\Debug\CreateLocalRegisterCode.pdb
+C:\Users\admin\Desktop\获取计算机信息\CreateLocalRegisterCode\CreateLocalRegisterCode\obj\Debug\CreateLocalRegisterCode.csprojResolveAssemblyReference.cache
